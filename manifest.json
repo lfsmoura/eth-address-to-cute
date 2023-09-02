@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Ethereum Address to Cute Name Converter",
+  "version": "1.0",
+  "description": "Converts Ethereum addresses to cute names",
+  "permissions": ["storage", "activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["index.js"]
+    }
+  ]
+}
