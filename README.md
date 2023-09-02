@@ -2,7 +2,7 @@
 
 ## Description
 
-This Chrome extension finds Ethereum addresses in webpages and converts them into cute words. For example, it replaces Ethereum addresses like `0xAbc123...` with something like `StarDark InMuse#🙃🙉😜😦🙂🙌😙😼03d353ef30d0792736e98da0`
+This Chrome extension finds Ethereum addresses in webpages and converts them into cute words. For example, it replaces Ethereum addresses like `0xAbc123...` with something like `YellowNear HappyRose#😾😃🙏😏😳😜😅😧`
 
 ## Features
 
